@@ -24,7 +24,7 @@ const App2 = () => {
           <Route exact path="/user/:id" component={Viewdata}/>  
           </Switch>
       </Router>
-  <Increase/>
+  {/* <Increase/> */}
     </div>
     );
 }

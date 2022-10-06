@@ -10,13 +10,13 @@ const Navbar2 = () => {
   { /* Links */ }
   <ul className="navbar-nav">
     <li className="nav-item">
-      <Link className="nav-link" to="/">Link 1</Link>
+      <Link className="nav-link" to="/">home</Link>
     </li>
     <li className="nav-item">
-      <Link className="nav-link" to="/blogs">Link 2</Link>
+      <Link className="nav-link" to="/blogs">about</Link>
     </li>
     <li className="nav-item">
-      <Link className="nav-link" to="/contact">Link 3</Link>
+      <Link className="nav-link" to="/contact">contect</Link>
     </li>
   </ul>
   <div className="add">
