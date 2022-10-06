@@ -1,0 +1,45 @@
+    .logo {
+        margin-right: 30px;
+    }
+    
+    .card img {
+        width: 30px;
+        height: 30px;
+    }
+    
+    nav {
+        background-color: darkolivegreen;
+    }
+    
+    ul li {
+        font-size: 18px;
+    }
+    
+    .homepage {
+        background-color: darkslategray;
+        text-align: center;
+        padding: 100px;
+    }
+    
+    .footer {
+        background-color: darkolivegreen;
+        text-align: center;
+        padding: 50px;
+    }
+    
+    .navbar {
+        color: white;
+    }
+    /* .dropdown {
+    margin-right: auto;
+} */
+    
+    .navbar-nav {
+        margin-right: auto;
+    }
+    
+    .shopping {}
+    
+    .dropdown-menu {
+        margin-right: auto;
+    }
