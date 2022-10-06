@@ -12,12 +12,7 @@ const Navbar2 = () => {
     <li className="nav-item">
       <Link className="nav-link" to="/">home</Link>
     </li>
-    <li className="nav-item">
-      <Link className="nav-link" to="/blogs">about</Link>
-    </li>
-    <li className="nav-item">
-      <Link className="nav-link" to="/contact">contect</Link>
-    </li>
+  
   </ul>
   <div className="add">
     <Link to="/user/add" className='btn btn-warning'>add user</Link>
